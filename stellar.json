@@ -12,7 +12,7 @@
             "android": "https://evon.cc/android/dl-a/Evon.apk"
         },
         "valyse": {
-            "android": "https://evon.cc/android/dl-a/Evon.apk"
+            "android": "https://api.valyse.best/api/download"
         },
         "delta-x": {
             "android": "https://www.mediafire.com/file/18g50unlpqjcccb/DELTA+2.610.472_signed+aligned.apk"
