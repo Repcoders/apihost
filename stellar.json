@@ -34,7 +34,7 @@
         }
     },
     "sideload": {
-        "scarlet-IPA": "link",
+        "scarlet-IPA": "https://github.com/Repcoders/apihost/raw/main/ScarletAlpha.ipa",
         "scarlet-direct": "itms-services://?action=download-manifest&amp;url=https://i.vvv.eco/plists/com.DebianArch.ScarletPersonalXYZZZ.1.0.99e50.plist"
     }
 }
