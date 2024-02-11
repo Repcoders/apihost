@@ -12,7 +12,7 @@
             "android": "https://evon.cc/android/dl-a/Evon.apk"
         },
         "valyse": {
-            "android": "https://api.valyse.best/api/download"
+            "android": "https://evon.cc/android/dl-a/Evon.apk"
         },
         "delta-x": {
             "android": "https://www.mediafire.com/file/18g50unlpqjcccb/DELTA+2.610.472_signed+aligned.apk"
@@ -32,5 +32,9 @@
                 "64-Bit": "https://www.mediafire.com/file/il7c2zi4cld34xz/Original+Fluxus+2.610+64bit.apk"
             }
         }
+    },
+    "sideload": {
+        "scarlet-IPA": "link",
+        "scarlet-direct": "itms-services://?action=download-manifest&amp;url=https://i.vvv.eco/plists/com.DebianArch.ScarletPersonalXYZZZ.1.0.99e50.plist"
     }
 }
