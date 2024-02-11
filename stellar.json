@@ -1,35 +1,35 @@
 {
     "executors": {
         "codex": {
-            "android": "https://www.mediafire.com/file/qhjlzc56u6rsi0r/Codex_2.609_fully_fixed.apk/file",
+            "android": "https://www.mediafire.com/file/qhjlzc56u6rsi0r/Codex_2.609_fully_fixed.apk",
             "ios": "itms-services://?action=download-manifest&amp;url=https://i.vvv.eco/plists/com.spdm.Codex.2.611.432.76a7b.plist"
         },
         "arceus-x": {
-            "android": "https://www.mediafire.com/file/9es117qltr32gmg/Roblox_Arceus_X_NEO_1.2.4.apk/file",
+            "android": "https://www.mediafire.com/file/9es117qltr32gmg/Roblox_Arceus_X_NEO_1.2.4.apk",
             "ios": "itms-services://?action=download-manifest&amp;url=https://i.vvv.eco/plists/com.spdm.ArceusX.2.611.432.c4ec7.plist"
         },
         "evon": {
             "android": "https://evon.cc/android/dl-a/Evon.apk"
         },
         "valyse": {
-            "android": "https://evon.cc/android/dl-a/Evon.apk"
+            "android": "https://api.valyse.best/api/download"
         },
         "delta-x": {
-            "android": "https://www.mediafire.com/file/18g50unlpqjcccb/DELTA+2.610.472_signed+aligned.apk/file"
+            "android": "https://www.mediafire.com/file/18g50unlpqjcccb/DELTA+2.610.472_signed+aligned.apk"
         },
         "trigon": {
-            "android": "https://www.mediafire.com/file/74pqq3jk31ko8sl/Trigon_2.609_fully_fixed.apk/file"
+            "android": "https://www.mediafire.com/file/74pqq3jk31ko8sl/Trigon_2.609_fully_fixed.apk"
         },
         "vega-x": {
-            "android": "https://www.mediafire.com/file_premium/ssagt9tmmixhhrv/Vega_X.apk/file"
+            "android": "https://www.mediafire.com/file_premium/ssagt9tmmixhhrv/Vega_X.apk"
         },
         "hydrogen": {
-            "android": "https://www.mediafire.com/file/r787x6gx0wwzftb/Hydrogen-2.4.3.apk/file"
+            "android": "https://www.mediafire.com/file/r787x6gx0wwzftb/Hydrogen-2.4.3.apk"
         },
         "fluxus": {
             "android": {
-                "32-Bit": "https://www.mediafire.com/file/8to8lbn39n8af6k/Original+Fluxus+2.610+32bit.apk/file",
-                "64-Bit": "https://www.mediafire.com/file/il7c2zi4cld34xz/Original+Fluxus+2.610+64bit.apk/file"
+                "32-Bit": "https://www.mediafire.com/file/8to8lbn39n8af6k/Original+Fluxus+2.610+32bit.apk",
+                "64-Bit": "https://www.mediafire.com/file/il7c2zi4cld34xz/Original+Fluxus+2.610+64bit.apk"
             }
         }
     }
