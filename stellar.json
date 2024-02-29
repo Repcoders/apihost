@@ -1,7 +1,7 @@
 {
     "executors": {
         "codex": {
-            "android": "https://www.mediafire.com/file/2aoszmi7xgh14ob/Codex_2.612.apk",
+            "android": "https://www.mediafire.com/file/bklz8b85ewrz9c4/CODEX_613_byAlysse.apk",
             "ios": "https://paster.so/uqOZs"
         },
         
@@ -19,7 +19,7 @@
         },
         
         "delta-x": {
-            "android": "https://www.mediafire.com/file/njbj5x0oafreehw/Delta_613_byAlysse.apk"
+            "android": "https://www.mediafire.com/file/nv694vgynk3gvsf/Delta_613_FIXED_byAlysse.apk"
         },
         
         "trigon": {
@@ -31,7 +31,7 @@
         },
         
         "hydrogen": {
-            "android": "https://www.mediafire.com/file/r787x6gx0wwzftb/Hydrogen-2.4.3.apk"
+            "android": "https://www.mediafire.com/file/ep00wk2du0h2a99/HYDROGEN_613_byAlysse.apk"
         },
         
         "alysse": {
