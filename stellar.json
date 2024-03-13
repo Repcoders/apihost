@@ -1,7 +1,7 @@
 {
     "executors": {
         "codex": {
-            "android": "https://www.mediafire.com/file/qcbrn119rl6dyo8/Codex_2.615.apk/file",
+            "android": "https://www.mediafire.com/file/qcbrn119rl6dyo8/Codex_2.615.apk",
             "ios": "https://paster.so/uqOZs"
         },
         
@@ -23,7 +23,7 @@
         },
         
         "trigon": {
-            "android": "https://www.mediafire.com/file/qpdxd3qadr50who/Trigon_2.615.apk/file"
+            "android": "https://www.mediafire.com/file/qpdxd3qadr50who/Trigon_2.615.apk"
         },
         
         "vega-x": {
@@ -41,7 +41,7 @@
         "fluxus": {
             "android": {
                 "32-Bit": "https://www.mediafire.com/file/54afbfer1v43yst/Original_Fluxus_2.614_32bit.apk",
-                "64-Bit": "https://www.mediafire.com/file/9cfp6v7i9lb0fln/Original_Fluxus_2.614_64bit.apk/file"
+                "64-Bit": "https://www.mediafire.com/file/9cfp6v7i9lb0fln/Original_Fluxus_2.614_64bit.apk"
             }
         }
     },
