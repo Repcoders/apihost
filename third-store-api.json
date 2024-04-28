@@ -1,0 +1,14 @@
+{
+    "ipas": {
+        "arceus": {
+            "ipa": "https://example.com/amgous-whatever-here.ipa",
+            "description": "Short Desc here",
+            "icon": "https://example.com/arceus-icon.png"
+        },
+        "codex": {
+            "ipa": "https://example.com/voidy-amogus.ipa",
+            "description": "Short Desc here",
+            "icon": "https://example.com/codex-icon.png"
+        }
+    }
+}
