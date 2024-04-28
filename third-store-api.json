@@ -1,13 +1,13 @@
 {
     "ipas": {
         "arceus": {
-            "ipa": "https://example.com/amgous-whatever-here.ipa",
-            "description": "Short Desc here",
+            "ipa": "https://github.com/daisuke1227/ForRandomIpas/releases/download/ipas/ArceusX_2.621.526.ipa",
+            "description": "Arceus X is a roblox executor with Great Execution.",
             "icon": "https://example.com/arceus-icon.png"
         },
         "codex": {
-            "ipa": "https://example.com/voidy-amogus.ipa",
-            "description": "Short Desc here",
+            "ipa": "https://github.com/daisuke1227/ForRandomIpas/releases/download/ipas/Codex_2.621.526.ipa",
+            "description": "Codex is a roblox executor with Modern UI and Great Execution.",
             "icon": "https://example.com/codex-icon.png"
         }
     }
